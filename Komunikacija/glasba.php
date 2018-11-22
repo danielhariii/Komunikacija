@@ -29,7 +29,12 @@
     <a href="<?php echo 'glasba.php'; ?>">glasba</a>
   </div>
 </div>
-
+<a href="<?php echo 'index.php'; ?>">Novosti</a>
+	<a href="<?php echo 'matematika.php'; ?>">Matematika </a>
+    <a href="<?php echo 'slovenscina.php'; ?>">slovenščina</a>
+    <a href="<?php echo 'fizika.php'; ?>">fizika</a>
+    <a href="<?php echo 'glasba.php'; ?>">glasba</a>
+  </div>
 
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 
